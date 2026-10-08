@@ -1,0 +1,6 @@
+{
+  "name": "DZ LocAuto Walid",
+  "description": "Agence de location de véhicules récents (2025-2026) à Béjaïa et Alger. Flotte premium, devis instantané et service aéroport.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
